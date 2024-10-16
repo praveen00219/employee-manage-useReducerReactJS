@@ -1,4 +1,4 @@
-# Employee Management System with React & Tailwind CSS
+# Employee Management System with React useReducer Hook
 
 This project is an Employee Management System built with React and Tailwind CSS, featuring state management using the `useReducer` hook. It allows you to manage employees by adding them to a team, calculating their average age, and sorting team members by age.
 
@@ -26,4 +26,4 @@ This project is an Employee Management System built with React and Tailwind CSS,
 
 ## Live Demo
 
-- Click here for live demo of the project : [Live]()
+- Click here for live demo of the project : [Live](https://praveen-employee-manage-usereducer-re.netlify.app/)
